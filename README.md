@@ -17,7 +17,7 @@ You may use any or all of the following methods to enter the mobile numbers
 1. When you execute `python run.py`, you can enter any number of comma separated 10 digit phone numbers at the prompt, at once.
 2. In the file `numbers.txt` which will store all the 10 digit numbers, each on a line ; Add all 10 digit phone numbers you will like to send text. 
 
-[For experimental Twilio Script execute`python wpautomate.py`, make sure you fill your own twilio api keys and setup sandbox from twilio website(https://www.twilio.com/)->whatsapp beta ]
+For experimental Twilio Script execute`python wpautomate.py`, make sure you fill your own twilio api keys and setup sandbox from twilio website(https://www.twilio.com/) ->whatsapp beta
 ### :running: Running
 
 1. Open the file `run.py` and update the variable `msg` with the message you want to send to all the numbers.
