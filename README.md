@@ -5,7 +5,7 @@ This tool makes adding multiple people to a WhatsApp group much easier.
 
 This tool allows you to directly send the messages to people without saving their contact on your phone. We can do this with the help of selenium python and whatsapp web.
 
-Another approach and a more official way is using Twilio API of Whatsapp but the issue is that it uses sandbox(a dummy number within an environment) and new users have to connect to that sand box by sending a message to a specific number and with the python script, it sends text message of ur bulk people who already connected to sandbox and then sandbox send it to those users. 
+Another approach and a more official way is using Twilio API of Whatsapp but the issue is that it uses sandbox(a dummy number within an environment) and new users have to connect to that sand box by sending a message to a specific number and with the python script, it sends text message of your bulk people who already connected to sandbox and then sandbox send it to those users. 
 [script->sandbox->whatsapp]
 
 ## :rocket: Getting Started 
@@ -17,13 +17,13 @@ You may use any or all of the following methods to enter the mobile numbers
 1. When you execute `python run.py`, you can enter any number of comma separated 10 digit phone numbers at the prompt, at once.
 2. In the file `numbers.txt` which will store all the 10 digit numbers, each on a line ; Add all 10 digit phone numbers you will like to send text. 
 
-[for experimental Twilio Script execute `python wpautomate.py` , make sure you fill your own twilio api keys and setup sandbox from twilio website->whatsapp beta ]
+[For experimental Twilio Script execute`python wpautomate.py`, make sure you fill your own twilio api keys and setup sandbox from twilio website->whatsapp beta ]
 ### :running: Running
 
 1. Open the file `run.py` and update the variable `msg` with the message you want to send to all the numbers.
 2. Make sure you've added the numbers properly. Make sure there are no duplicates.
 3. When the automated Chrome browser window opens up, be ready to scan the QR code with your phone to sign in to WhatsApp Web, more info on how to do this can be found in the [WhatsApp Web faq](https://faq.whatsapp.com/en/web/28080003/).
-4. Go grab a :doughnut:, you've earned it.
+
 
 ## :stars: Advanced Tips and Tricks
 
