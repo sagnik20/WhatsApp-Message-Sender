@@ -1,5 +1,9 @@
 # WhatsApp Bulk Messenger :loudspeaker:
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ShubhayanS/WhatsApp-Message-Sender/graphs/commit-activity)[![GitHub issues](https://img.shields.io/github/issues/ShubhayanS/WhatsApp-Message-Sender)](https://github.com/ShubhayanS/WhatsApp-Message-Sender/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ShubhayanS/WhatsApp-Message-Sender?style=social)](https://github.com/ShubhayanS/WhatsApp-Message-Sender/network) [![GitHub stars](https://img.shields.io/github/stars/ShubhayanS/WhatsApp-Message-Sender?style=social)](https://github.com/ShubhayanS/WhatsApp-Message-Sender/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 ## What it does?
 This tool makes adding multiple people to a WhatsApp group much easier. 
 
