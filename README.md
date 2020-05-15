@@ -21,7 +21,8 @@ You may use any or all of the following methods to enter the mobile numbers
 1. When you execute `python run.py`, you can enter any number of comma-separated 10 digit phone numbers at the prompt, at once.
 2. In the file `numbers.txt` which will store all the 10 digit numbers, each on a line; Add all 10 digit phone numbers you will like to send text. 
 
-For experimental Twilio Script execute`python wpautomate.py`, make sure you fill your own Twilio API keys and setup sandbox from Twilio website(https://www.twilio.com/) ->whatsapp beta
+For experimental Twilio Script execute`python wpautomate.py`, make sure you fill your own Twilio API keys and setup sandbox from [Twilio website](https://www.twilio.com/) ->whatsapp beta
+
 ### :running: Running
 
 1. Open the file `run.py` and update the variable `msg` with the message you want to send to all the numbers.
@@ -36,9 +37,9 @@ For experimental Twilio Script execute`python wpautomate.py`, make sure you fill
 
 
 ## :dragon: Debugging
-This program uses a CSS Selector to find out where exactly to write the message, just like a human would. And that keeps changing over time based on how [WhatsApp Web](web.whatsapp.com) is designed. So all we have to do is update the CSS Selector in the code, by doing the following:
+This program uses a CSS Selector to find out where exactly to write the message, just like a human would. And that keeps changing over time based on how [WhatsApp Web](https://web.whatsapp.com) is designed. So all we have to do is update the CSS Selector in the code, by doing the following:
 
-1. Right-click on the white space in [WhatsApp Web](web.whatsapp.com) where you type the message, 
+1. Right-click on the white space in [WhatsApp Web](https://web.whatsapp.com) where you type the message, 
 2. Press Inspect element
 3. From the inspector in chrome or any browser you're using, copy the CSS selector
 4. Update the `css_selector` variable in the code.
