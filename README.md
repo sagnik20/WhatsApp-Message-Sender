@@ -1,7 +1,7 @@
 # WhatsApp Bulk Messenger :loudspeaker:
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/WhatsApp-Message-Sender/graphs/commit-activity)[![GitHub issues](https://img.shields.io/github/issues/sagnik20/WhatsApp-Message-Sender)](https://github.com/sagnik20/WhatsApp-Message-Sender/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sagnik20/WhatsApp-Message-Sender?style=social)](https://github.com/sagnik20/WhatsApp-Message-Sender/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/WhatsApp-Message-Sender?style=social)](https://github.com/sagnik20/WhatsApp-Message-Sender/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagnik20/WhatsApp-Message-Sender/graphs/commit-activity)  [![GitHub issues](https://img.shields.io/github/issues/sagnik20/WhatsApp-Message-Sender)](https://github.com/sagnik20/WhatsApp-Message-Sender/issues)
+  [![GitHub forks](https://img.shields.io/github/forks/sagnik20/WhatsApp-Message-Sender?style=social)](https://github.com/sagnik20/WhatsApp-Message-Sender/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/WhatsApp-Message-Sender?style=social)](https://github.com/sagnik20/WhatsApp-Message-Sender/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 ## What it does?
